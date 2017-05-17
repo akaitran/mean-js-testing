@@ -1,0 +1,4 @@
+db.movie.insert({
+    "title": "Lord of the Ring",
+    "url": "test url"
+});
